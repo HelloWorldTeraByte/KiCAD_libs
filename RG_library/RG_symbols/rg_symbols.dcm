@@ -1,0 +1,85 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AOZ2261NQI
+F http://www.aosmd.com/res/data_sheets/AOZ2261NQI-11.pdf
+$ENDCMP
+#
+$CMP Jetson_Nano_Dev
+D Generic connector, double row, 02x20, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP LM1117-2.5
+D 800mA Low-Dropout Linear Regulator, 2.5V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP LM1117-3.3
+D 800mA Low-Dropout Linear Regulator, 3.3V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP LM1117-5.0
+D 800mA Low-Dropout Linear Regulator, 5.0V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP LMR14020
+D 2A, Step Down DC-DC Converter, 4-40V Input Voltage
+K Step-Down DC-DC Switching Regulator High Voltage
+F http://www.ti.com/lit/ds/symlink/lmr14020.pdf
+$ENDCMP
+#
+$CMP NTD5865NLT4G
+D N-MOSFET transistor, gate/drain/source, drain connected to mounting plane
+K transistor NMOS N-MOS N-MOSFET
+F ~
+$ENDCMP
+#
+$CMP TLV1117-15
+D 800mA Low-Dropout Linear Regulator, 1.5V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/tlv1117.pdf
+$ENDCMP
+#
+$CMP TLV1117-18
+D 800mA Low-Dropout Linear Regulator, 1.8V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/tlv1117.pdf
+$ENDCMP
+#
+$CMP TLV1117-25
+D 800mA Low-Dropout Linear Regulator, 2.5V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/tlv1117.pdf
+$ENDCMP
+#
+$CMP TLV1117-33
+D 800mA Low-Dropout Linear Regulator, 3.3V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/tlv1117.pdf
+$ENDCMP
+#
+$CMP TLV1117-50
+D 800mA Low-Dropout Linear Regulator, 5.0V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/tlv1117.pdf
+$ENDCMP
+#
+$CMP TLV1117LV-33
+D 1A Low-Dropout Linear Regulator, 3.3V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/tlv1117lv.pdf
+$ENDCMP
+#
+$CMP TPS54231
+D 2A, Step Down DC-DC Converter with Eco-mode, 3.5-28V Input Voltage, SO-8
+K Step-Down DC-DC Switching Regulator High Voltage High Frequency
+F http://www.ti.com/lit/ds/symlink/tps54233.pdf
+$ENDCMP
+#
+#End Doc Library
