@@ -1,12 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP AOZ2261NQI
-F http://www.aosmd.com/res/data_sheets/AOZ2261NQI-11.pdf
-$ENDCMP
-#
 $CMP Jetson_Nano_Dev
-D Generic connector, double row, 02x20, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)
-K connector
+D Jetson Nano Developer Kit Pinout
+K Jetson
 F ~
 $ENDCMP
 #
@@ -34,10 +30,18 @@ K Step-Down DC-DC Switching Regulator High Voltage
 F http://www.ti.com/lit/ds/symlink/lmr14020.pdf
 $ENDCMP
 #
+$CMP MIC4416
+D Low Side MOSFET Driver
+$ENDCMP
+#
 $CMP NTD5865NLT4G
 D N-MOSFET transistor, gate/drain/source, drain connected to mounting plane
 K transistor NMOS N-MOS N-MOSFET
 F ~
+$ENDCMP
+#
+$CMP PTN78020WAH
+D DC DC Adjustable Buck Module
 $ENDCMP
 #
 $CMP TLV1117-15
